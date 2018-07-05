@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49279" started-at="2018-06-03T12:28:51Z" finished-at="2018-06-03T12:29:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49279" started-at="2018-06-03T12:28:51Z" finished-at="2018-06-03T12:29:40Z">
+      <class name="Testcases.Tc_02">
+        <test-method status="PASS" signature="needs()[pri:0, instance:Testcases.Tc_02@7cd62f43]" name="needs" is-config="true" duration-ms="11809" started-at="2018-06-03T12:28:51Z" finished-at="2018-06-03T12:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needs -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:Testcases.Tc_02@7cd62f43]" name="tc02" duration-ms="904" started-at="2018-06-03T12:29:03Z" finished-at="2018-06-03T12:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Testcases.Tc_02@7cd62f43]" name="close" is-config="true" duration-ms="1185" started-at="2018-06-03T12:29:03Z" finished-at="2018-06-03T12:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcases.Tc_02 -->
+      <class name="Testcases.Tc_01">
+        <test-method status="PASS" signature="needs()[pri:0, instance:Testcases.Tc_01@6d4b1c02]" name="needs" is-config="true" duration-ms="9832" started-at="2018-06-03T12:29:05Z" finished-at="2018-06-03T12:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needs -->
+        <test-method status="PASS" signature="tc01()[pri:0, instance:Testcases.Tc_01@6d4b1c02]" name="tc01" duration-ms="1667" started-at="2018-06-03T12:29:15Z" finished-at="2018-06-03T12:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Testcases.Tc_01@6d4b1c02]" name="close" is-config="true" duration-ms="1083" started-at="2018-06-03T12:29:16Z" finished-at="2018-06-03T12:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcases.Tc_01 -->
+      <class name="Testcases.Tc_04">
+        <test-method status="PASS" signature="needs()[pri:0, instance:Testcases.Tc_04@5622fdf]" name="needs" is-config="true" duration-ms="10011" started-at="2018-06-03T12:29:28Z" finished-at="2018-06-03T12:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needs -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:Testcases.Tc_04@5622fdf]" name="tc04" duration-ms="823" started-at="2018-06-03T12:29:38Z" finished-at="2018-06-03T12:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Testcases.Tc_04@5622fdf]" name="close" is-config="true" duration-ms="1162" started-at="2018-06-03T12:29:39Z" finished-at="2018-06-03T12:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcases.Tc_04 -->
+      <class name="Testcases.Tc_03">
+        <test-method status="PASS" signature="needs()[pri:0, instance:Testcases.Tc_03@6093dd95]" name="needs" is-config="true" duration-ms="8897" started-at="2018-06-03T12:29:17Z" finished-at="2018-06-03T12:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- needs -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:Testcases.Tc_03@6093dd95]" name="tc03" duration-ms="788" started-at="2018-06-03T12:29:26Z" finished-at="2018-06-03T12:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Testcases.Tc_03@6093dd95]" name="close" is-config="true" duration-ms="1027" started-at="2018-06-03T12:29:27Z" finished-at="2018-06-03T12:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcases.Tc_03 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
